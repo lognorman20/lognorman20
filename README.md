@@ -5,7 +5,7 @@
 
 ### Welcome to my profile!
 
-I am an incoming freshman at the University of Southern California studying Computer Sience. I enjoy playing/watching basketball, cooking, learning history, skiing, and of course, programming.
+I am an incoming freshman at the University of Southern California studying Computer Science. I enjoy playing/watching basketball, cooking, learning history, skiing, and of course, programming.
 
 **More About Me:**
 

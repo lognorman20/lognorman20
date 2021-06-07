@@ -12,7 +12,7 @@ I am an incoming freshman at the University of Southern California studying Comp
 - 👨🏻‍💻 I’m currently working on a [project generating conspiracy theories.](https://github.com/lognorman20/conspiracy_generation)
 - 🚀 I’m currently learning Feature Engineering on [Coursea.](https://www.coursera.org/learn/feature-engineering)
 - 💬 Ask me about anything from the Denver Nuggets to essential life questions like whether or not water is wet.
-- 📝 I write articles on [medium]((https://lognorman.medium.com/) about my projects.
+- 📝 I write articles on [medium](https://lognorman.medium.com/) about my projects.
 - 📫 You can reach me at lognorman20@gmail.com.
 
 

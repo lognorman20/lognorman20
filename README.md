@@ -1,4 +1,4 @@
-### Hello! My name is Logan. 
+# Hello! My name is Logan. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/logannorman/)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://lognorman.medium.com/)

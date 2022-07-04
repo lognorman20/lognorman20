@@ -7,6 +7,8 @@
 
 I am a rising sophomore at the University of Southern California studying Computer Science. I enjoy playing/watching basketball, cooking, learning history, skiing, and of course, programming.
 
+I am currently developing a [mobile crypto portfolio tracking app](https://github.com/lognorman20/pocket_watching), advancing my backend web development skills through projects in Javascript and Rust, and learning more about the world of cryptography.
+
 **More About Me:**
 
 - 👨🏻‍💻 Check out my most recent personal [project generating conspiracy theories.](https://medium.com/codex/generating-conspiracy-theories-with-machine-learning-gpt-2-28e9c416b367)

@@ -11,7 +11,7 @@ I am currently developing a [mobile crypto portfolio tracking app](https://githu
 
 **More About Me:**
 
-- 👨🏻‍💻 Check out my most recent personal [project generating conspiracy theories.](https://medium.com/codex/generating-conspiracy-theories-with-machine-learning-gpt-2-28e9c416b367)
+- 👨🏻‍💻 Check out my most recent personal [project generating conspiracy theories with GPT-2.](https://medium.com/codex/generating-conspiracy-theories-with-machine-learning-gpt-2-28e9c416b367)
 - 💬 Ask me about anything from the Denver Nuggets to essential life questions like whether or not water is wet.
 - 📝 I write articles on [medium](https://lognorman.medium.com/) about my projects.
 - 📫 You can reach me at lognorman20@gmail.com.

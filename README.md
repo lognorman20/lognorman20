@@ -5,9 +5,11 @@
 
 ### Welcome to my profile!
 
-I am a sophomore at the University of Southern California studying Computer Science. I enjoy playing/watching basketball, cooking, learning history, skiing, and of course, programming.
+I am a sophomore at the University of Southern California studying Computer Science. I enjoy creating technology that makes everyday life simpler, more efficient and amusing. 
 
 I am currently developing a [mobile crypto portfolio tracking app](https://github.com/lognorman20/pocket_watching), advancing my backend web development skills through projects in Javascript and Rust, and learning more about the world of cryptography.
+
+In my free time, I like playing/watching basketball, cooking, learning history, skiing, and of course, programming.
 
 **More About Me:**
 

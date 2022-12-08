@@ -7,7 +7,7 @@
 
 I am a sophomore at the University of Southern California studying Computer Science. I enjoy creating technology that makes everyday life simpler, more efficient and amusing. 
 
-I am currently developing a [mobile crypto portfolio tracking app](https://github.com/lognorman20/pocket_watching), advancing my backend web development skills through projects in Javascript and Rust, and learning more about the world of cryptography.
+I am currently developing a [mobile crypto portfolio tracking app](https://github.com/lognorman20/pocket_watching), advancing my skills through projects in Python, C++, Javascript, and Rust, as well as learning more about the world of cryptography.
 
 In my free time, I like playing/watching basketball, cooking, learning history, skiing, and of course, programming.
 
@@ -17,6 +17,7 @@ In my free time, I like playing/watching basketball, cooking, learning history, 
 - 💬 Ask me about anything from the Denver Nuggets to essential life questions like whether or not water is wet.
 - 📝 I write articles on [medium](https://lognorman.medium.com/) about my projects.
 - 📫 You can reach me at lognorman20@gmail.com.
+- My editor of choice is [Neovim](https://neovim.io/), you can find/test out my configuration [here](https://github.com/lognorman20/nvimconfig).
 
 
 **My GitHub Stats:**

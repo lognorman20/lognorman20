@@ -7,13 +7,13 @@
 
 I am a sophomore at the University of Southern California studying Computer Science. I enjoy creating technology that makes everyday life simpler, more efficient and amusing. 
 
-I am currently developing a [mobile crypto portfolio tracking app](https://github.com/lognorman20/pocket_watching), advancing my skills through projects in Python, C++, Javascript, and Rust, as well as learning more about the world of cryptography.
+I am currently interested in building zero-knowledge applications, iOS apps, and studying abstract algebra and number theory.
 
 In my free time, I like playing/watching basketball, cooking, learning history, skiing, and of course, programming.
 
 **More About Me:**
 
-- 👨🏻‍💻 Check out my most recent personal [project generating conspiracy theories with GPT-2.](https://medium.com/codex/generating-conspiracy-theories-with-machine-learning-gpt-2-28e9c416b367)
+- 👨🏻‍💻 Check out my most recent personal project [an iOS chat app that generates the next lyric in a freestyle.](https://medium.com/geekculture/freestylegpt-an-ai-chat-app-that-generates-rap-lyrics-95bea8830cbd)
 - 💬 Ask me about anything from the Denver Nuggets to essential life questions like whether or not water is wet.
 - 📝 I write articles on [medium](https://lognorman.medium.com/) about my projects.
 - 📫 You can reach me at lognorman20@gmail.com.

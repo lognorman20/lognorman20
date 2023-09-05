@@ -5,7 +5,7 @@
 
 ### Welcome to my profile!
 
-I am a sophomore at the University of Southern California studying Computer Science. I enjoy creating technology that makes everyday life simpler, more efficient and amusing. 
+I am a junior at the University of Southern California studying Computer Science. I enjoy creating technology that makes everyday life simpler, more efficient and amusing. 
 
 I am currently interested in building zero-knowledge applications, iOS apps, and studying abstract algebra and number theory.
 
@@ -13,14 +13,8 @@ In my free time, I like playing/watching basketball, cooking, learning history, 
 
 **More About Me:**
 
-- 👨🏻‍💻 Check out my most recent personal project [an iOS chat app that generates the next lyric in a freestyle.](https://medium.com/geekculture/freestylegpt-an-ai-chat-app-that-generates-rap-lyrics-95bea8830cbd)
+- 👨🏻‍💻 Check out my most recent personal project [a markdown editor with vim key bindings and  static website generator for markdown files](https://t.co/qTSRkwKKak)
 - 💬 Ask me about anything from the Denver Nuggets to essential life questions like whether or not water is wet.
 - 📝 I write articles on [medium](https://lognorman.medium.com/) about my projects.
 - 📫 You can reach me at lognorman20@gmail.com.
 - My editor of choice is [Neovim](https://neovim.io/), you can find/test out my configuration [here](https://github.com/lognorman20/nvimconfig).
-
-
-**My GitHub Stats:**
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lognorman20&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</p>

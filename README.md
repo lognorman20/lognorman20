@@ -5,7 +5,7 @@
 
 I am a junior at the University of Southern California studying Computer Science. I enjoy creating technology that makes everyday life simpler, more efficient, and amusing. 
 
-I am currently interested in building zero-knowledge proofs, iOS apps,and functional programming.
+I am currently interested in building zero-knowledge proofs, iOS apps, and functional programming.
 
 In my free time, I like playing/watching basketball, boxing, learning history && philosophy, music production, skiing, and of course, programming.
 

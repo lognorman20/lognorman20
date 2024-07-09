@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/logannorman/)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://lognorman.medium.com/)
 
-I am a third year computer science student at the University of Southern California. I enjoy creating technology that makes everyday life simpler, more efficient, and amusing. Right now, I am studying abroad for a semester in **New Zealand** and will return to the United States in June.
+I am a third year computer science student at the University of Southern California. I enjoy creating technology that makes everyday life simpler, more efficient, and amusing. Currently, I am based out of San Francisco, California.
 
 I am currently interested in zero-knowledge proofs and functional programming.
 

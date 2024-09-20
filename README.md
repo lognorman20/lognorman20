@@ -5,7 +5,7 @@
 
 I am a fourth year computer science student at the University of Southern California. I enjoy creating technology that makes everyday life simpler, more efficient, and amusing. Currently, I am based out of Los Angeles, California.
 
-I am currently interested in zero-knowledge proofs and fully-homomorphic encryption.
+I am interested in zero-knowledge proofs and fully-homomorphic encryption.
 
 In my free time, I love playing/watching basketball, boxing, learning history (especially the Cold War), music production, skiing, and of course, programming.
 
